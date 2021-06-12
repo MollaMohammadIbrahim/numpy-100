@@ -14,6 +14,7 @@ File automatically generated. See the documentation to update questions/answers/
 
 #### 1. Import the numpy package under the name `np` (★☆☆)
 `hint: import … as`
+import numpy as np
 #### 2. Print the numpy version and the configuration (★☆☆)
 `hint: np.__version__, np.show_config)`
 #### 3. Create a null vector of size 10 (★☆☆)
